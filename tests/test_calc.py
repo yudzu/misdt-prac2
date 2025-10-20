@@ -19,5 +19,5 @@ def test_divide_normal():
 
 
 def test_divide_by_zero():
-    with pytest.raises(ZeroDivisionError):
+    with pytest.raises(ValueError):
         divide(10, 0)
