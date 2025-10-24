@@ -2,4 +2,4 @@ site_name: Calculator CI Demo
 nav:
   - Home: index.md
 theme:
-  name: material
+  name: mkdocs
