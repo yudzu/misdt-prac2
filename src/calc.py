@@ -13,6 +13,7 @@ def divide(a, b):
     return a / b
 
 # some new features
+# trying to make docs
 
 if __name__ == "__main__":
     print("Example:", divide(10, 2))
